@@ -19,9 +19,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zenab12&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zenab12&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zenab12&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
-
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/zenabmohammed1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zenab-mohamed-23133a1a1/) 
@@ -33,6 +30,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zenab12&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
+
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 -->
