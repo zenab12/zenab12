@@ -1,7 +1,8 @@
 
 ![BannerOfMe (2)](https://user-images.githubusercontent.com/78083890/169719246-710404e6-01e3-4b49-b39d-76b0334aae33.png)
 <h1 align="center">
- Hello there,I'm Zienab Mohamed 👋
+ Hello there,I'm Zienab Mohamed 👋 <img src="https://visitcount.itsvg.in/api?id=zenab12&icon=0&color=0" width="400px" style="display:inline-block;margin:auto auo">
+ <br>
 </h1>
 <br>
 
@@ -19,10 +20,6 @@
 
 # 📊GitHub Stats :
 <div align="center">
- <br>
- <img src="https://visitcount.itsvg.in/api?id=zenab12&icon=0&color=0" width="400px" style="display:inline-block;margin:auto auo">
- <br>
- 
 <img src="https://github-readme-stats.vercel.app/api?username=zenab12&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" width="400">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenab12&theme=dracula&hide_border=false" width="400"><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenab12&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" >
