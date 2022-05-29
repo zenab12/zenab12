@@ -1,8 +1,9 @@
 
 ![BannerOfMe (2)](https://user-images.githubusercontent.com/78083890/169719246-710404e6-01e3-4b49-b39d-76b0334aae33.png)
-
- ###                                                                   Hello there,I'm Zienab Mohamed 👋
-
+<h1 align="center">
+ Hello there,I'm Zienab Mohamed 👋
+</h1>
+<hr>
 - 🔭 I’m currently working on Front-End Mentor Challenges and this is [my account](https://www.frontendmentor.io/profile/zenab12)
 - 🌱 I’m currently learning ES6,TypeScript,Php...
 - 👯 I’m looking to collaborate on Front-end internship...
