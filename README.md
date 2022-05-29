@@ -32,8 +32,10 @@
 
 ---
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
 <!--
 
 ## 🏆GitHub Trophies
