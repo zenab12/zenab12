@@ -3,7 +3,8 @@
 <h1 align="center">
  Hello there,I'm Zienab Mohamed 👋
 </h1>
-<hr>
+<br>
+
 - 🔭 I’m currently working on Front-End Mentor Challenges and this is [my account](https://www.frontendmentor.io/profile/zenab12)
 - 🌱 I’m currently learning ES6,TypeScript,Php...
 - 👯 I’m looking to collaborate on Front-end internship...
