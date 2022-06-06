@@ -15,10 +15,11 @@
 - ⚡ Fun fact: I Love Gym so much but I don't have any time to go there ...
 
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width=70 height=50> Tech Stack
+# <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width=70 height=80> Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-# 📊GitHub Stats :
+
+# <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=70 height=80> GitHub Stats :
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zenab12&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" width="400">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenab12&theme=dracula&hide_border=false" width="400"><br/>
@@ -27,7 +28,7 @@
 </div>
 <br>
 
-## 🌐Socials
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=30 height=30> Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/zenabmohammed1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zenab-mohamed-23133a1a1/) 
 
 ---
