@@ -1,7 +1,7 @@
 
 ![BannerOfMe (2)](https://user-images.githubusercontent.com/78083890/169719246-710404e6-01e3-4b49-b39d-76b0334aae33.png)
 <h1 align="center">
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> Hello there,I'm Zienab Mohamed 👋 <img src="https://visitcount.itsvg.in/api?id=zenab12&icon=0&color=0" style="display:inline-block;margin:auto auo">
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> Hello there,I'm Zienab Mohamed <img src="https://visitcount.itsvg.in/api?id=zenab12&icon=0&color=0" style="display:inline-block;margin:auto auo">
  <br>
 </h1>
 <br>
