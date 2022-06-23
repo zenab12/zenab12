@@ -7,12 +7,12 @@
 
 
 - 🔭 I’m currently working on Front-End Mentor Challenges and this is [my account](https://www.frontendmentor.io/profile/zenab12)
-- 🌱 I’m currently learning ES6,TypeScript,Php...
+- 🌱 I’m currently learning ES6,TypeScript,Php..
 - 👯 I’m looking to collaborate on Front-end internship..
 - 💬 Ask me about Front-end web development ..
 - 📫 How to reach me: zenabm410@gmail.com ..
-- 😄 Pronouns: Zien ..
-- ⚡ Fun fact: I Love Gym so much but I don't have any time to go there ...
+- 😄 Pronouns: Zien .
+- ⚡ Fun fact: I Love Gym so much but I don't have any time to go there ..
 
 
 # <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width=70 height=80> Tech Stack
