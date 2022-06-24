@@ -32,7 +32,8 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/zenabmohammed1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zenab-mohamed-23133a1a1/) 
 [![Twitter](https://img.shields.io/twitter/follow/zenabmo90454136?color=white&logo=twitter&logoColor=white&style=plastic)](https://twitter.com/zenabmo90454136) 
 [![Telegram](https://img.shields.io/twitter/url?color=white&label=Contact%20me&logo=telegram&url=http%3A%2F%2Ft.me%2FunNotBooleanFalse)](https://t.me/unNotBooleanFalse)
-
+[![Code Wars](https://img.shields.io/badge/Code%20wars-Follow-red)](https://www.codewars.com/users/zenab12)
+[![Front-End Mentor](https://img.shields.io/badge/Front--end%20Mentor-Follow-blue)](https://www.frontendmentor.io/profile/zenab12)
 
 ---
 ### ✍️Random Dev Quote
