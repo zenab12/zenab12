@@ -6,7 +6,7 @@
 </h1>
 
 
-- 🔭 I’m currently working on Front-End Mentor Challenges and this is [my account](https://www.frontendmentor.io/profile/zenab12)
+- 🔭 I’m currently working on Front-End Mentor Challenges on Sass and this is [my account](https://www.frontendmentor.io/profile/zenab12)
 - 🌱 I’m currently reviewing HTML,CSS,Sass..
 - 👯 I’m looking to collaborate on Front-end internship..
 - 💬 Ask me about Front-end web development ..
