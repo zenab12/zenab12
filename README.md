@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on Front-End Mentor Challenges on Sass and this is [my account](https://www.frontendmentor.io/profile/zenab12)
-- 🌱 I’m currently reviewing HTML,CSS,Sass..
+- 🌱 I’m currently working in HTML,CSS and Sass projects in front-end mentor
 - 👯 I’m looking to collaborate on Front-end internship..
 - 💬 Ask me about Front-end web development ..
 - 📫 How to reach me: zenabm410@gmail.com ..
