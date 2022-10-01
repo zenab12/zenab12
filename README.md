@@ -35,7 +35,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenab12&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" >
 
 </div>
-<br
+<br>
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=30 height=30> Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/zenabmohammed1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zienabmuhammad/) 
