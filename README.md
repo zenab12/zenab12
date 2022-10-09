@@ -6,13 +6,13 @@
 </h1>
 
 
-- 🔭 I’m currently working on Front-End Mentor Challenges on Sass and this is [my account](https://www.frontendmentor.io/profile/zenab12)
+- 🔭 I’m currently training in ITI 9 months professtional training in Web development and UI .
 - 🌱 I’m currently working in HTML,CSS and Sass projects in front-end mentor..
 - 👯 I’m looking to collaborate on Front-end internship..
 - 💬 Ask me about Front-end web development ..
 - 📫 How to reach me: zenabm410@gmail.com ..
 - 😄 Pronouns: Zien .
-- ⚡ Fun fact: I Love Gym so much but I don't have any time to go there ..
+- ⚡ Fun fact: I Love Gym so much but I don't have any time to go there .
 
 
 # <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width=70 height=80> Tech Stack
