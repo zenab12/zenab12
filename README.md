@@ -38,6 +38,8 @@
 
 # <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=70 height=80> GitHub Stats :
 <div align="center">
+<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+ -->
 <img src="https://github-readme-stats.vercel.app/api?username=zenab12&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" width="400">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenab12&theme=dracula&hide_border=false" width="400"><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenab12&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" >
