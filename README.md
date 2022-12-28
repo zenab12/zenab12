@@ -45,9 +45,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=zenab12&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=70 height=80> GitHub Stats :
