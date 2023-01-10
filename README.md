@@ -58,8 +58,12 @@
 </div>
 <br>
  
-[![Zien](https://github-readme-activity-graph.cyclic.app/graph?username=zenab12&custom_title=zenab12's%20GitHub%20Activity%20Graph&bg_color=000000&color=ff00fe&line=CA5C7E&point=ff00fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Zien](https://github-readme-activity-graph.cyclic.app/graph?username=zenab12&custom_title=zenab12's%20GitHub%20Activity%20Graph&bg_color=000000&color=ff00fe&line=CA5C7E&point=ff00fe&area=true&hide_border=true)
+
 <br>
+<!-- 
+[![Zien](https://github-readme-activity-graph.cyclic.app/graph?username=zenab12&custom_title=zenab12's%20GitHub%20Activity%20Graph&bg_color=000000&color=ff00fe&line=CA5C7E&point=ff00fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=30 height=30> Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/zenabmohammed1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zienabmuhammad/) 
