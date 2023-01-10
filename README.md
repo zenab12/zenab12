@@ -65,6 +65,9 @@
 [![Code Wars](https://img.shields.io/badge/Code%20wars-Follow-red)](https://www.codewars.com/users/zenab12)
 [![Front-End Mentor](https://img.shields.io/badge/Front--end%20Mentor-Follow-blue)](https://www.frontendmentor.io/profile/zenab12)
 
+[![Zien](https://github-readme-activity-graph.cyclic.app/graph?username=zenab12&custom_title=zenab12's%20GitHub%20Activity%20Graph&bg_color=000000&color=ff00fe&line=CA5C7E&point=ff00fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ---
 ### ✍️Random Dev Quote
 
