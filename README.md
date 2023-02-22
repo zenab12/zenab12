@@ -18,13 +18,13 @@
 </h1>
 
 
-- 🔭 I’m currently training in ITI 9 months professtional training in Web development and UI 
-- 🌱 I’m currently working in HTML,CSS and Sass projects in front-end mentor
-- 👯 I’m looking to collaborate with many developer to work in different projects 
-- 💬 Ask me about Front-end web development 
-- 📫 How to reach me: zenabm410@gmail.com 
-- 😄 Pronouns: Zien 
-- ⚡ Fun fact: I Love Gym so much but I don't have any time to go there
+- 🔭 I’m currently training in ITI 9 months professtional training in Web development and UI. 
+- 🌱 I’m currently working in HTML,CSS and Sass projects in front-end mentor.
+- 👯 I’m looking to collaborate with many developer to work in different projects. 
+- 💬 Ask me about Front-end web development. 
+- 📫 How to reach me: zenabm410@gmail.com. 
+- 😄 Pronouns: Zien. 
+- ⚡ Fun fact: I Love Gym so much but I don't have any time to go there.
 
 # <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width=70 height=80> Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
