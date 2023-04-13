@@ -24,7 +24,7 @@
 - 💬 Ask me about Front-end web development. 
 - 📫 How to reach me: zenabm410@gmail.com. 
 - 😄 Pronouns: Zien. 
-- ⚡ Fun fact: I Love Gym so much but I don't have any time to go there..
+- ⚡ Fun fact: I Love Gym so much but I don't have any time to go there.
 
 # <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width=70 height=80> Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
