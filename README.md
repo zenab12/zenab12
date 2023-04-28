@@ -19,7 +19,7 @@
 
 
 - 🔭 I’m currently training in ITI 9 months professtional training in Web development and UI. 
-- 🌱 I’m currently working on React  and Material UI Projects 
+- 🌱 I’m currently reviewing courses for applying on jobs. 
 - 👯 I’m looking to collaborate with many developer to work in different projects. 
 - 💬 Ask me about Front-end web development. 
 - 📫 How to reach me: zenabm410@gmail.com. 
