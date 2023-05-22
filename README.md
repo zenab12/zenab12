@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently training in ITI 9 months professtional training in Web development and UI. 
 - 🌱 I’m currently reviewing courses for applying on jobs. 
-- 👯 I’m looking to collaborate with many developer to work in different projects. 
+- 🔎 I’m looking to find remote front end developer position in good company. 
 - 💬 Ask me about Front-end web development. 
 - 📫 How to reach me: zenabm410@gmail.com. 
 - 😄 Pronouns: Zien
