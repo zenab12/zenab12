@@ -66,10 +66,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenab12&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" width="400" >
 </div>
 <br>
- 
+<!--  
 [![Zien](https://github-readme-activity-graph.cyclic.app/graph?username=zenab12&custom_title=zenab12's%20GitHub%20Activity%20Graph&bg_color=000000&color=ff00fe&line=CA5C7E&point=ff00fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
+<br> -->
 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=30 height=30> Socials
