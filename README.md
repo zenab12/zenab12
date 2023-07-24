@@ -78,14 +78,13 @@
 [![Front-End Mentor](https://img.shields.io/badge/Front--end%20Mentor-Follow-blue)](https://www.frontendmentor.io/profile/zenab12)
 
 
+<!--
 ### ✍️Random Dev Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
-<!--
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zenab12&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
-
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 -->
