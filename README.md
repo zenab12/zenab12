@@ -67,9 +67,7 @@
 </div>
 <br>
 <!--  
-[![Zien](https://github-readme-activity-graph.cyclic.app/graph?username=zenab12&custom_title=zenab12's%20GitHub%20Activity%20Graph&bg_color=000000&color=ff00fe&line=CA5C7E&point=ff00fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br> -->
+[![Zien](https://github-readme-activity-graph.cyclic.app/graph?username=zenab12&custom_title=zenab12's%20GitHub%20Activity%20Graph&bg_color=000000&color=ff00fe&line=CA5C7E&point=ff00fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=30 height=30> Socials
@@ -80,14 +78,11 @@
 [![Front-End Mentor](https://img.shields.io/badge/Front--end%20Mentor-Follow-blue)](https://www.frontendmentor.io/profile/zenab12)
 
 
----
 ### ✍️Random Dev Quote
-
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 <!--
-
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zenab12&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
 
