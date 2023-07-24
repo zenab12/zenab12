@@ -7,7 +7,7 @@
 <!-- <br> -->
  
 <!-- <a  href="https://app.daily.dev/zienmo"><img src="https://api.daily.dev/devcards/41181d273f7a46c89ce78442570af882.png?r=gbw" width="170" alt="Zien Mohammed Abdelmonaem's Dev Card"/></a> -->
- <a href="https://app.daily.dev/zienmo"><img src="https://api.daily.dev/devcards/41181d273f7a46c89ce78442570af882.png?r=4lp" width="170" alt="Zien Mohammed Abdelmonaem's Dev Card"/></a>
+ <a href="https://app.daily.dev/zienmo"><img src="https://api.daily.dev/devcards/41181d273f7a46c89ce78442570af882.png?r=4lp" width='600' alt="Zien Mohammed Abdelmonaem's Dev Card"/></a>
  <br>
  <br>
 </p>
